@@ -47,6 +47,8 @@ pip install -r requirements.txt
 ### 4️⃣ Download NLTK resources (run once)
 
 ```bash
+pip install pandas scikit-learn transformers torch sentence-transformers     
+
 python
 >>> import nltk
 >>> nltk.download('punkt')
