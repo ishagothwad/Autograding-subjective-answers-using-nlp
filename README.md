@@ -34,7 +34,8 @@ Create a virtual evnironment
  ```
 python -m venv venv
 
-source venv/bin/activate
+source venv/bin/activate # for windows
+source venv/bin/activate # for mac
  ```
 
 ### 3️⃣ Install dependencies
