@@ -18,9 +18,10 @@ git clone https://github.com/your-username/auto-grading-app.git
 
 cd auto-grading-app
 
- Create a virtual evnironment
-```
+ ```
+Create a virtual evnironment
+ ```
 python -m venv venv
 
 source venv/bin/activate
-
+ ```
